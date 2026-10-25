@@ -1,0 +1,13 @@
+chainlit>=2.0,<3.0
+langchain>=0.1.16
+langchain-community>=0.0.35
+langchain-core>=0.1.46
+langchain-openai>=0.1.6
+langgraph>=0.0.48
+tavily-python>=0.3.3
+openai>=1.14.2
+python-dotenv>=1.0.1
+oss2>=2.18.4
+Pillow>=10.0.0
+requests>=2.31.0
+dashscope>=1.20.0

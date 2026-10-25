@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and generated files
+*.db
+*.sqlite
+*.sqlite3
+.files/
+.chainlit/.files/
+.chainlit/translations/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local logs and IDE files
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
